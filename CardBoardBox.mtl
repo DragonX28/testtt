@@ -1,0 +1,22 @@
+# Blender 5.0.1 MTL File: 'CardBoardBox.blend'
+# www.blender.org
+
+newmtl Empty
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Василий/Downloads/trebovaniya-k-markirovke-ozon-razmery-etiketok-i-kuda-ih-kleit-7.webp
+map_d C:/Users/Василий/Downloads/trebovaniya-k-markirovke-ozon-razmery-etiketok-i-kuda-ih-kleit-7.webp
+
+newmtl cardboard
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.263927 0.100998 0.030715
+Ks 0.645612 0.645612 0.645612
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
