@@ -1,0 +1,86 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl MI_MZRa_Fern_B051.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd T_MZRa_Fern_B051_BC.png
+map_d T_MZRa_Fern_B051_BC.png
+
+newmtl MI_MZRa_Fern_B052.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd T_MZRa_Fern_B052_BC.png
+map_d T_MZRa_Fern_B052_BC.png
+
+newmtl MI_MZRa_Fern_B053.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd T_MZRa_Fern_B053_BC.png
+map_d T_MZRa_Fern_B053_BC.png
+
+newmtl MI_MZRa_Monstera_B07a1.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd MI_MZRa_Monstera_B07a1_BC.png
+map_d MI_MZRa_Monstera_B07a1_BC.png
+
+newmtl MI_MZRa_Monstera_B07a2.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd MI_MZRa_Monstera_B07a2_BC.png
+map_d MI_MZRa_Monstera_B07a2_BC.png
+
+newmtl MI_MZRa_Monstera_B07b.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd T_MZRa_Monstera_B07b_BC.png
+map_Ns T_MZRa_Monstera_B07b_R.png
+map_refl T_MZRa_Monstera_B07b_M.png
+map_Bump -bm 1.000000 T_MZRa_Monstera_B07b_N.png
+
+newmtl MI_MZRa_Palm_B08a.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd T_MZRa_Palm_B08a_BC.png
+map_d T_MZRa_Palm_B08a_BC.png
+
+newmtl MI_MZRa_Palm_B08b.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd T_MZRa_Palm_B08b_BC.png
+map_Ns T_MZRa_Palm_B08b_R.png
+map_refl T_MZRa_Palm_B08b_M.png
+map_Bump -bm 1.000000 T_MZRa_Palm_B08b_N.png
